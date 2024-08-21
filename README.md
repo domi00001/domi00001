@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @domi00001
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Boas vindas ao meu perfil 🖤
 
-<!---
-domi00001/domi00001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Meu nome é Ellen Dominique 
+
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos devenvolvidos  
+- Você pode entra em contato comigo 📫
+
+### 00001167249306sp@al.educacao.sp.gov.br
+
+@ellendominique
